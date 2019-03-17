@@ -31,7 +31,7 @@ The popular Adam optimiser generally used by default for modern deep learning tr
 ### Activation Functions
 
 Although SELU and ELU initially showed fastest convergence, ReLU and leaky-ReLU ultimately converged in fewer steps and shorter wall time. However, ELU and SELU both achieved better final accuracy (Figure 4).
-![Tensorboard accuracy/log loss curves for different activation functions](tensorboard-screenshots/activation_functions.png)
+![Tensorboard accuracy/log loss curves for different act functions](tensorboard-screenshots/act_functions.png)
 ***Figure 4:*** *Accuracy and log loss curves for different activation functions.*
 
 <br>
